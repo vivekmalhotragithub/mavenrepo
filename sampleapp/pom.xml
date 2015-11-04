@@ -4,7 +4,7 @@
 
   <groupId>com.vivek.nagarro</groupId>
   <artifactId>sampleapp</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.4</version>
   <packaging>jar</packaging>
 
   <name>sampleapp</name>
@@ -14,12 +14,12 @@
   </properties>
   
   <distributionManagement>
-	    <repository>
-	        <id>73f38ef656bd</id>
-	        <name>73f38ef656bd-releases</name>
-	        <url>http://localhost:8081/artifactory/ext-release-local</url>
-	    </repository>
-	</distributionManagement>
+    <repository>
+        <id>821719869c33</id>
+        <name>821719869c33-releases</name>
+        <url>http://localhost:8081/artifactory/ext-release-local</url>
+    </repository>
+</distributionManagement>
 
   <dependencies>
     <dependency>
